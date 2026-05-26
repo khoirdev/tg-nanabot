@@ -1,5 +1,5 @@
 #!/bin/bash
-# Скрипт для запуска бота Nanobanana
+# Skrip untuk menjalankan bot Nanobanana
 
 cd "$(dirname "$0")"
 source venv/bin/activate
